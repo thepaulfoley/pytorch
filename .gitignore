@@ -1,6 +1,9 @@
 # data in quickstart directory
 quickstart/data/
 
+# ignore .vscode directory  
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
